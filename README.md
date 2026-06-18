@@ -7,7 +7,9 @@ This project analyzes retail sales performance using the Sample Superstore datas
 The dashboard was created using Power BI and Power Query to visualize key business metrics such as sales, profit, orders, and customer segments.
 
 The goal of this project is to help businesses understand their sales performance and identify profitable products, customer segments, and regions.
-Used Dataset:<https:Super_Store_Analysis/blob/main/Sample-Superstore-Dataset.xls>
+Used Dataset:
+
+<https:Super_Store_Analysis/blob/main/Sample-Superstore-Dataset.xls>
 
 Problem Statement
 Retail companies generate large volumes of sales data. However, without proper analysis it becomes difficult to identify:
@@ -31,7 +33,9 @@ Customer segment insights
 Product profitability analysis
 Year-wise sales trends
 This enables decision-makers to quickly analyze business performance and make data-driven decisions.
-Dashboard img:<https://Super_Store_Analysis/blob/main/Categorywise-Details-Dashboard.png>
+Dashboard img:
+
+<https://Super_Store_Analysis/blob/main/Categorywise-Details-Dashboard.png>
 
 🛠 Tools & Technologies Used
 Power BI – Data visualization and dashboard creation
